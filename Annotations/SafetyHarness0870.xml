@@ -1,0 +1,38 @@
+<annotation>
+	<folder>safety harness</folder>
+	<filename>SafetyHarness0870.jpg</filename>
+	<path>E:\1\safety harness\SafetyHarness0870.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety-harness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>285</ymin>
+			<xmax>707</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>40</ymin>
+			<xmax>842</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>

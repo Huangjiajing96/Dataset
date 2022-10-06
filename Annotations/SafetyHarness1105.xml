@@ -1,0 +1,26 @@
+<annotation>
+	<folder>change2</folder>
+	<filename>SafetyHarness1105.jpg</filename>
+	<path>F:\Desktop\testxml_change\change2\SafetyHarness1105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>393</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety-harness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>201</ymin>
+			<xmax>254</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>SafetyHarness0778.jpg</filename>
+	<path>E:\1.code\1.data_harness\VOC-harness_person\JPEGImages\SafetyHarness0778.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>548</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safety-harness</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>174</ymin>
+			<xmax>301</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>
